@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant census for the Manchester-Nashua (Metro), New Hampshire metro, covering Manchester and Nashua. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Manchester-Nashua (Metro), New Hampshire, US",
+  "export_job_id": "73fa60f3-0376-48ca-aefe-17fc3b971bca",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 371378,
+  "location_name": "Manchester-Nashua, NH",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-manchester-nashua-metro-new-hampshire-us-sample-371378",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/371378/beamstation_371378_restaurants-us-manchesternashuanh_SAMPLE_DIST.csv",
+  "sample_pct": 9.93,
+  "sample_records": 90,
+  "sample_sha256": "ebaaf68da13c8822b5508d1af94a406a1dd39d54b97af025dd85557f6038020e",
+  "sample_size_bytes": 336827,
+  "total_records": 906,
+  "updated_at": "2026-04-09T11:42:21.453248+00:00"
+}
