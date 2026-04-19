@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete restaurant census for the Manchester-Nashua (Metro), New Hampshire metro, covering Manchester and Nashua. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Manchester-Nashua (Metro), New Hampshire, US",
-  "export_job_id": "73fa60f3-0376-48ca-aefe-17fc3b971bca",
+  "export_job_id": "122af1ec-c33e-44bc-b67b-d79f12464882",
   "github_org": "Beamstation-Datasets",
   "id_short": 371378,
   "location_name": "Manchester-Nashua, NH",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-manchester-nashua-metro-new-hampshire-us-sample-371378",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/371378/beamstation_371378_restaurants-us-manchesternashuanh_SAMPLE_DIST.csv",
   "sample_pct": 9.93,
-  "sample_records": 90,
-  "sample_sha256": "ebaaf68da13c8822b5508d1af94a406a1dd39d54b97af025dd85557f6038020e",
-  "sample_size_bytes": 336827,
-  "total_records": 906,
-  "updated_at": "2026-04-09T11:42:21.453248+00:00"
+  "sample_records": 87,
+  "sample_sha256": "3f0ed131bc1c459f7d5ae92ef29aa08b528e0a14ad7a38b9c4270a3c064ecce5",
+  "sample_size_bytes": 322512,
+  "total_records": 876,
+  "updated_at": "2026-04-16T11:46:57.565129+00:00"
 }
