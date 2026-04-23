@@ -1,6 +1,6 @@
 # All Restaurants in Manchester-Nashua (Metro), New Hampshire, US
 
-> Free BeamStation sample export with 87 rows and masked direct-contact fields.
+> Free BeamStation sample export with 72 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `371378` |
 | Location | Manchester-Nashua, NH |
 | Category | Restaurants |
-| Full dataset size | 876 records |
-| Free sample size | 87 records (9.93%) |
-| Last export | 2026-04-16T11:46:57.565129+00:00 |
+| Full dataset size | 724 records |
+| Free sample size | 72 records (9.94%) |
+| Last export | 2026-04-23T11:14:14.334667+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-manchester-nashua-metro-new-hampshire-us-sample-371378/releases/download/sample-latest/beamstation_371378_restaurants-us-manchesternashuanh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
