@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1acc32de-35aa-4dbe-9982-c0260e3d80bb",
+  "export_job_id": "4848c0aa-1a09-455b-8a3b-3fda57d4e719",
   "id_short": 371378,
-  "published_at": "2026-04-23T19:37:03Z",
+  "published_at": "2026-04-30T19:31:45Z",
   "repo_name": "all-restaurants-in-manchester-nashua-metro-new-hampshire-us-sample-371378",
   "sample_asset_name": "beamstation_371378_restaurants-us-manchesternashuanh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/371378/beamstation_371378_restaurants-us-manchesternashuanh_SAMPLE_DIST.csv",
-  "sample_records": 72,
-  "sample_sha256": "fe8301434499e496289455da868fce8b77763805ac9276dd2e2c2f2092c0e49d",
-  "sample_size_bytes": 250879,
-  "total_records": 724
+  "sample_records": 88,
+  "sample_sha256": "11fb8f525a811584e2303b91b822d6162fe61f4dce65240d052ed5422a6e4e16",
+  "sample_size_bytes": 312986,
+  "total_records": 882
 }
